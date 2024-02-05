@@ -1,0 +1,14 @@
+D:\.NetPractice\to-do-list\bin\Debug\net7.0\to-do-list.exe
+D:\.NetPractice\to-do-list\bin\Debug\net7.0\to-do-list.deps.json
+D:\.NetPractice\to-do-list\bin\Debug\net7.0\to-do-list.runtimeconfig.json
+D:\.NetPractice\to-do-list\bin\Debug\net7.0\to-do-list.dll
+D:\.NetPractice\to-do-list\bin\Debug\net7.0\to-do-list.pdb
+D:\.NetPractice\to-do-list\obj\Debug\net7.0\to-do-list.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetPractice\to-do-list\obj\Debug\net7.0\to-do-list.AssemblyInfoInputs.cache
+D:\.NetPractice\to-do-list\obj\Debug\net7.0\to-do-list.AssemblyInfo.cs
+D:\.NetPractice\to-do-list\obj\Debug\net7.0\to-do-list.csproj.CoreCompileInputs.cache
+D:\.NetPractice\to-do-list\obj\Debug\net7.0\to-do-list.dll
+D:\.NetPractice\to-do-list\obj\Debug\net7.0\refint\to-do-list.dll
+D:\.NetPractice\to-do-list\obj\Debug\net7.0\to-do-list.pdb
+D:\.NetPractice\to-do-list\obj\Debug\net7.0\to-do-list.genruntimeconfig.cache
+D:\.NetPractice\to-do-list\obj\Debug\net7.0\ref\to-do-list.dll
